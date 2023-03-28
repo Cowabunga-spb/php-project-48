@@ -1,0 +1,12 @@
+{
+    "name": "hexlet/code",
+    "authors": [
+        {
+            "name": "Denis Abdrakhmanov",
+            "email": "denisa37@mail.ru"
+        }
+    ],
+    "require": {
+        "docopt/docopt": "^1.0"
+    }
+}
